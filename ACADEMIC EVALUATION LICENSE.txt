@@ -1,6 +1,7 @@
 ACADEMIC EVALUATION LICENSE
 
-Copyright (c) 2026 [Daniele Rufo / Structured-Lattice-KEM]
+Copyright (c) 2026 Daniele Rufo
+Project: Structured-Lattice-KEM
 All rights reserved.
 
 1. GRANT OF LICENSE
