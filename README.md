@@ -14,7 +14,13 @@ For detailed mathematical proofs, variance computations, and parameter analysis,
 * [**pqckem.pdf**](./pqckem.pdf)
 
 The scheme operates in the ring Rq = Zq[x]/(x^N + 1) with q = 12289 and N in {256, 512, 1024, 2048}.
+### 🌐 Official Academic Publication (Zenodo)
+The theoretical foundations and full technical specifications of this research have been officially published and archived on **Zenodo**:
 
+👉 **[Read the official paper on Zenodo](https://zenodo.org/records/20282875)**
+
+**How to cite:**
+Rufo, D. (2026). Structured Lattice KEM: Security Reduction to NSLD. Zenodo. https://doi.org/10.5281/zenodo.20282875
 ## 💻 Usage Guide (Windows 11 64-bit)
 The executable td53_full_msvc_A2.exe implements the protocol using the optimized parameters (Rrep = 18, WMAX = 60, TOPK = 4) discussed in the paper.
 
