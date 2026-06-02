@@ -48,6 +48,14 @@ Example of encrypting a file using the public key:
 # Decrypt the file
 ./td53_full_msvc_A2.exe decrypt-file alice.sk alice.pk file.enc file_decrypted.bin
 
+# QuantumVault - Post-Quantum File Encryption
+
+An advanced, stealth, and lightweight drag-and-drop file encryption utility for Windows, powered by a Lattice-Based Key Encapsulation Mechanism (KEM).
+
+[![Gumroad](https://img.shields.io/badge/Gumroad-Get%20Standalone%20Installer-orange?style=for-the-badge&logo=gumroad)](https://xdrufox.gumroad.com/l/quantumvault)
+
+---
+
 ## ⚖️ Academic Evaluation License
 This software is provided exclusively for academic evaluation, benchmarking, and verification of the claims in pqckem.pdf.
 
